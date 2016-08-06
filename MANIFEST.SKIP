@@ -63,13 +63,6 @@
 \.lwpcookies
 Business-.*
 
-objtest.pl
-stringtest.pl
 
-t/isbn.t
-t/xisbn.t
 \.dist$
 \.html$
-
-select_tabledata.pl
-dropbox

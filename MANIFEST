@@ -7,3 +7,4 @@ MANIFEST			This list of files
 MANIFEST.SKIP
 README.pod
 t/xisbn.t
+xt/changes.t
