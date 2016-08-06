@@ -1,5 +1,7 @@
 Revision history for Perl module Business::xISBN
 
+1.001_01 2016-08-06T09:42:04Z
+
 1.001_01 2016-08-06T09:38:11Z
 	* Move xISBN stuff from Business::ISBN into its own module. The
 	xISBN stuff is past its declared end of life, so this allows us
