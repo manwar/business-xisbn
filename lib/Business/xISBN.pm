@@ -37,7 +37,7 @@ send a pull request!
 
 =cut
 
-$VERSION = "1.001_01";
+$VERSION = "1.002";
 
 =item xisbn
 
