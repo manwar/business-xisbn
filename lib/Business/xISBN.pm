@@ -39,7 +39,7 @@ send a pull request!
 
 $VERSION = "1.003";
 
-=item xisbn
+=head2 xisbn
 
 In scalar context, returns an anonymous array of related ISBNs using xISBN.
 In list context, returns a list. It does not include the original ISBN.
